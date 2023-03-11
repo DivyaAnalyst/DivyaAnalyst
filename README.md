@@ -1,6 +1,7 @@
+[MasterHead](https://www.shutterstock.com/image-vector/business-data-analysis-analytics-web-600w-1464229004.jpg)](https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif)
 <h1 align="center">Hi 👋, I'm Divya T A</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
+<img align="right" alt="Analysis" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif">
 - 🌱 I’m currently learning **tools and technologies for Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaAnalyst](https://github.com/DivyaAnalyst)
